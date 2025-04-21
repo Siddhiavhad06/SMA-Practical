@@ -1,0 +1,65 @@
+import pandas as pd 
+import numpy as np
+import seaborn as sns
+import os
+import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+from plotly.offline import init_notebook_mode, iplot
+
+df = pd.read_csv("netflix_titles_nov_2019.csv")
+df.head()
+
+#Remove Duplicate rows
+df = df.drop_duplicates()
+
+#Check Missing Values
+df.isnull().sum()
+
+# Fill missing values in various columns
+df['director'] = df['director'].fillna('unknown')  # For missing directors
+df['cast'] = df['cast'].fillna('unknown')  # For missing cast
+df['country'] = df['country'].fillna('unknown')  # For missing country
+df['date_added'] = df['date_added'].fillna(pd.Timestamp.today())  # For missing date_added
+df['rating'] = df['rating'].fillna(df['rating'].mode()[0])  # For missing ratings
+
+# Convert column names to lowercase and replace spaces with underscores
+df.columns = df.columns.str.lower().str.replace(' ', '_')
+
+# Convert string columns to lowercase
+df['director'] = df['director'].str.lower()
+df['cast'] = df['cast'].str.lower()
+df['country'] = df['country'].str.lower()
+df['rating'] = df['rating'].str.lower()
+
+# Create the "SMA" folder if it doesn't exist
+folder_path = 'SMA'
+if not os.path.exists(folder_path):
+    os.makedirs(folder_path)
+
+# Save the cleaned dataset to the "SMA" folder
+df.to_csv(os.path.join(folder_path, "netflix_titles_cleaned.csv"), index=False)
+
+print("Cleaned data has been saved to the 'SMA' folder.")
+Cleaned data has been saved to the 'SMA' folder.
+
+df.head(50)
+
+#Content Type on Netflix
+col = "type"
+grouped = df[col].value_counts().reset_index()
+grouped = grouped.rename(columns = {col : "count", "index" : col})
+
+## plot
+trace = go.Pie(labels=grouped[col], values=grouped['count'], pull=[0.05, 0], marker=dict(colors=["#6aa49b", "#a678de"]))
+layout = go.Layout(title="", height=400, legend=dict(x=0.1, y=1.1))
+fig = go.Figure(data = [trace], layout = layout)
+iplot(fig)
+
+
+
+# Handling not null values (Not null)
+df_not_null = df.dropna()
+print(df.shape)
+print(df_not_null.shape)
+
+df_not_null.head(100)
