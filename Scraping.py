@@ -1,3 +1,4 @@
+
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -40,8 +41,6 @@ def scrape_media(url, media_folder="internship"):  # Folder changed to "internsh
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
 
-
-
     response = requests.get(url, headers=headers)
     print(f"Status Code: {response.status_code}")
 
@@ -49,9 +48,7 @@ def scrape_media(url, media_folder="internship"):  # Folder changed to "internsh
         print(f"Failed to retrieve webpage: {url}")
         return
 
-    
-
-soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.text, "html.parser")
 
     # Prepare Excel sheet
     wb = openpyxl.Workbook()
@@ -91,4 +88,3 @@ soup = BeautifulSoup(response.text, "html.parser")
 if __name__ == "__main__":
     website_url = "https://www.videvo.net/stock-video-footage"  # Example URL
     scrape_media(website_url)
-
