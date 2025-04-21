@@ -1,0 +1,48 @@
+# Install necessary packages (run once)
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("readr")
+install.packages("tidyr")  # for genre split
+
+# Load libraries
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(tidyr)
+
+
+netflix_data <- read_csv("C:/Users/Siddhi Avhad/Desktop/netflix_titles_nov_2019.csv")
+
+#Bar Plot
+library(ggplot2)
+ggplot(netflix_data, aes(x = type, fill = type)) +
+  geom_bar() +
+  labs(title = "Movies vs TV Shows")
+
+#Histogram
+ggplot(filter(netflix_data, type == "Movie"), aes(x = as.numeric(gsub(" min", "", duration)))) +
+  geom_histogram(binwidth = 10, fill = "steelblue", color = "white") +
+  labs(title = "Movie Duration Histogram", x = "Duration (min)", y = "Count")
+
+#Box plot
+ggplot(filter(netflix_data, type == "Movie"), aes(y = as.numeric(gsub(" min", "", duration)), x = type, fill = type)) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Movie Durations", y = "Duration (min)", x = "")
+
+#Scatter Plot
+ggplot(filter(netflix_data, type == "Movie"), aes(x = release_year, y = as.numeric(gsub(" min", "", duration)))) +
+  geom_point(alpha = 0.5, color = "darkgreen") +
+  labs(title = "Scatter Plot: Release Year vs Duration", x = "Release Year", y = "Duration (min)")
+
+#Pie Chart
+library(dplyr)
+library(ggplot2)
+
+netflix_data %>%
+  count(type) %>%
+  ggplot(aes(x = "", y = n, fill = type)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y") +
+  labs(title = "Netflix Content Type Distribution") +
+  theme_void()
+
