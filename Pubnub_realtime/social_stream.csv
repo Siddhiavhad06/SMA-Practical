@@ -1,0 +1,674 @@
+Timestamp,User,Topic,Message,Likes,Retweets,Sentiment,Location
+2025-04-07 11:45:45,@gptbot,ChatGPT,Trending: Mars is blowing up!,107,175,negative,India
+2025-04-07 11:45:47,@gptbot,Bitcoin,Trending: Tech is blowing up!,77,142,negative,Tokyo
+2025-04-07 11:45:49,@techguru,Mars,Trending: SpaceX is blowing up!,629,472,negative,Germany
+2025-04-07 11:45:51,@nasa,AI,Trending: Mars is blowing up!,301,495,positive,California
+2025-04-07 11:45:54,@nasa,SpaceX,Trending: Bitcoin is blowing up!,222,349,positive,New York
+2025-04-07 11:45:56,@techguru,AI,Trending: SpaceX is blowing up!,96,183,positive,New York
+2025-04-07 11:45:58,@nasa,Bitcoin,Trending: Tech is blowing up!,110,212,positive,Tokyo
+2025-04-07 11:46:00,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,501,444,negative,Tokyo
+2025-04-07 11:46:02,@nasa,Tech,Trending: Tech is blowing up!,893,458,positive,New York
+2025-04-07 11:46:04,@gptbot,ChatGPT,Trending: Tech is blowing up!,801,300,negative,India
+2025-04-07 11:46:07,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,639,246,positive,Germany
+2025-04-07 11:46:09,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,268,471,negative,Germany
+2025-04-07 11:46:11,@elonmusk,Mars,Trending: SpaceX is blowing up!,848,47,neutral,Texas
+2025-04-07 11:46:13,@gptbot,Bitcoin,Trending: AI is blowing up!,442,470,negative,Tokyo
+2025-04-07 11:46:15,@nasa,AI,Trending: Tech is blowing up!,411,441,negative,India
+2025-04-07 11:46:17,@elonmusk,Mars,Trending: AI is blowing up!,840,85,positive,California
+2025-04-07 11:46:19,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,851,205,neutral,India
+2025-04-07 11:46:22,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,435,186,neutral,California
+2025-04-07 11:46:24,@techguru,Mars,Trending: SpaceX is blowing up!,551,136,positive,New York
+2025-04-07 11:46:26,@gptbot,Tech,Trending: ChatGPT is blowing up!,395,310,neutral,India
+2025-04-07 11:46:28,@techguru,AI,Trending: SpaceX is blowing up!,810,399,positive,New York
+2025-04-07 11:46:30,@techguru,Mars,Trending: ChatGPT is blowing up!,944,19,negative,India
+2025-04-07 11:46:32,@techguru,Tech,Trending: ChatGPT is blowing up!,624,468,neutral,Tokyo
+2025-04-07 11:46:34,@techguru,SpaceX,Trending: AI is blowing up!,284,425,negative,New York
+2025-04-07 11:46:37,@techguru,ChatGPT,Trending: Bitcoin is blowing up!,693,165,neutral,India
+2025-04-07 11:46:39,@elonmusk,ChatGPT,Trending: Mars is blowing up!,839,176,neutral,New York
+2025-04-07 11:46:41,@techguru,SpaceX,Trending: ChatGPT is blowing up!,800,475,negative,California
+2025-04-07 11:46:43,@gptbot,SpaceX,Trending: Tech is blowing up!,992,257,negative,Texas
+2025-04-07 11:46:45,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,457,123,neutral,New York
+2025-04-07 11:46:47,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,387,56,positive,Germany
+2025-04-07 11:46:49,@gptbot,ChatGPT,Trending: AI is blowing up!,755,380,negative,Texas
+2025-04-07 11:46:51,@elonmusk,Tech,Trending: Tech is blowing up!,566,435,positive,New York
+2025-04-07 11:46:54,@nasa,Mars,Trending: Tech is blowing up!,238,265,positive,India
+2025-04-07 11:46:56,@techguru,Bitcoin,Trending: Mars is blowing up!,819,170,negative,Texas
+2025-04-07 11:46:58,@gptbot,AI,Trending: Mars is blowing up!,861,142,negative,Germany
+2025-04-07 11:47:00,@nasa,Tech,Trending: SpaceX is blowing up!,189,103,positive,Tokyo
+2025-04-07 11:47:02,@elonmusk,Tech,Trending: Mars is blowing up!,228,331,negative,Texas
+2025-04-07 11:47:04,@gptbot,Tech,Trending: Bitcoin is blowing up!,656,300,neutral,Germany
+2025-04-07 11:47:09,@nasa,Tech,Trending: AI is blowing up!,103,207,positive,Tokyo
+2025-04-07 11:47:11,@techguru,Bitcoin,Trending: SpaceX is blowing up!,819,169,positive,India
+2025-04-07 11:47:13,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,468,210,neutral,California
+2025-04-07 11:47:15,@techguru,ChatGPT,Trending: Tech is blowing up!,915,244,neutral,India
+2025-04-07 11:47:17,@elonmusk,Bitcoin,Trending: AI is blowing up!,746,120,neutral,California
+2025-04-07 11:47:19,@techguru,ChatGPT,Trending: Mars is blowing up!,844,239,neutral,Germany
+2025-04-07 11:47:21,@nasa,AI,Trending: Tech is blowing up!,899,496,negative,New York
+2025-04-07 11:47:24,@elonmusk,SpaceX,Trending: AI is blowing up!,435,500,positive,Tokyo
+2025-04-07 11:47:26,@elonmusk,Bitcoin,Trending: Mars is blowing up!,216,384,negative,Germany
+2025-04-07 11:47:28,@elonmusk,Bitcoin,Trending: Tech is blowing up!,868,70,positive,Tokyo
+2025-04-07 11:47:30,@elonmusk,AI,Trending: Tech is blowing up!,500,299,positive,California
+2025-04-07 11:47:32,@gptbot,Mars,Trending: Mars is blowing up!,55,239,negative,New York
+2025-04-07 11:47:34,@elonmusk,Tech,Trending: Bitcoin is blowing up!,103,334,positive,Texas
+2025-04-07 11:47:36,@techguru,Tech,Trending: Mars is blowing up!,904,88,negative,Texas
+2025-04-07 11:47:38,@gptbot,Mars,Trending: Mars is blowing up!,886,205,positive,Germany
+2025-04-07 11:47:41,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,782,360,negative,California
+2025-04-07 11:47:43,@gptbot,Mars,Trending: ChatGPT is blowing up!,624,469,negative,Tokyo
+2025-04-07 11:47:45,@nasa,AI,Trending: Bitcoin is blowing up!,67,338,positive,New York
+2025-04-07 11:47:47,@elonmusk,Bitcoin,Trending: Tech is blowing up!,900,52,neutral,Germany
+2025-04-07 11:47:49,@gptbot,Tech,Trending: Tech is blowing up!,915,384,positive,New York
+2025-04-07 11:47:51,@nasa,Mars,Trending: Mars is blowing up!,261,367,neutral,Tokyo
+2025-04-07 11:47:53,@gptbot,Bitcoin,Trending: Tech is blowing up!,245,147,negative,Tokyo
+2025-04-07 11:47:56,@elonmusk,AI,Trending: Bitcoin is blowing up!,420,496,positive,India
+2025-04-07 11:47:58,@techguru,SpaceX,Trending: SpaceX is blowing up!,131,70,neutral,California
+2025-04-07 11:48:00,@elonmusk,SpaceX,Trending: SpaceX is blowing up!,979,137,negative,Tokyo
+2025-04-07 11:48:02,@techguru,Bitcoin,Trending: ChatGPT is blowing up!,593,177,negative,Germany
+2025-04-07 11:48:05,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,839,414,neutral,Germany
+2025-04-07 11:48:07,@nasa,Tech,Trending: Bitcoin is blowing up!,964,94,neutral,Germany
+2025-04-07 11:48:09,@techguru,Tech,Trending: SpaceX is blowing up!,222,249,positive,Tokyo
+2025-04-07 11:48:11,@techguru,ChatGPT,Trending: ChatGPT is blowing up!,352,16,neutral,Texas
+2025-04-07 11:48:13,@nasa,AI,Trending: Bitcoin is blowing up!,972,145,neutral,California
+2025-04-07 11:48:15,@techguru,Mars,Trending: SpaceX is blowing up!,456,368,negative,Texas
+2025-04-07 11:48:18,@nasa,Mars,Trending: ChatGPT is blowing up!,426,26,neutral,Germany
+2025-04-07 11:48:20,@nasa,Tech,Trending: AI is blowing up!,975,28,positive,Germany
+2025-04-07 11:48:22,@techguru,ChatGPT,Trending: SpaceX is blowing up!,699,257,neutral,India
+2025-04-07 11:48:24,@gptbot,Tech,Trending: SpaceX is blowing up!,469,281,positive,Germany
+2025-04-07 11:48:26,@gptbot,AI,Trending: AI is blowing up!,355,31,positive,Tokyo
+2025-04-07 11:48:28,@elonmusk,SpaceX,Trending: AI is blowing up!,608,108,positive,New York
+2025-04-07 11:48:30,@elonmusk,ChatGPT,Trending: Mars is blowing up!,435,152,negative,Tokyo
+2025-04-07 11:48:33,@techguru,SpaceX,Trending: Bitcoin is blowing up!,896,106,neutral,Tokyo
+2025-04-07 11:48:35,@nasa,Bitcoin,Trending: Mars is blowing up!,715,250,neutral,Germany
+2025-04-07 11:48:37,@nasa,AI,Trending: Bitcoin is blowing up!,798,74,neutral,India
+2025-04-07 11:48:39,@techguru,Mars,Trending: ChatGPT is blowing up!,204,68,positive,India
+2025-04-07 11:48:45,@techguru,Tech,Trending: AI is blowing up!,17,124,negative,New York
+2025-04-07 11:48:48,@elonmusk,AI,Trending: Mars is blowing up!,279,257,negative,California
+2025-04-07 11:48:50,@nasa,ChatGPT,Trending: AI is blowing up!,556,260,neutral,India
+2025-04-07 11:48:52,@techguru,AI,Trending: ChatGPT is blowing up!,472,264,positive,Germany
+2025-04-07 11:48:54,@nasa,SpaceX,Trending: Bitcoin is blowing up!,462,171,positive,New York
+2025-04-07 11:48:56,@gptbot,SpaceX,Trending: Bitcoin is blowing up!,776,285,negative,Texas
+2025-04-07 11:48:58,@elonmusk,ChatGPT,Trending: Tech is blowing up!,540,324,negative,Texas
+2025-04-07 11:49:00,@techguru,Mars,Trending: Mars is blowing up!,589,487,positive,Texas
+2025-04-07 11:49:03,@nasa,Mars,Trending: Bitcoin is blowing up!,280,66,positive,California
+2025-04-07 11:49:05,@techguru,SpaceX,Trending: Tech is blowing up!,512,146,neutral,Germany
+2025-04-07 11:49:07,@gptbot,Tech,Trending: Mars is blowing up!,48,332,positive,Germany
+2025-04-07 11:49:09,@gptbot,Mars,Trending: SpaceX is blowing up!,349,498,neutral,Tokyo
+2025-04-07 11:49:11,@nasa,Mars,Trending: SpaceX is blowing up!,216,193,positive,California
+2025-04-07 11:49:13,@elonmusk,Mars,Trending: Bitcoin is blowing up!,871,236,neutral,Germany
+2025-04-07 11:49:15,@nasa,ChatGPT,Trending: Tech is blowing up!,149,60,negative,Texas
+2025-04-07 11:49:18,@gptbot,Mars,Trending: Mars is blowing up!,145,201,neutral,Germany
+2025-04-07 11:49:20,@techguru,AI,Trending: ChatGPT is blowing up!,280,299,neutral,Tokyo
+2025-04-07 11:49:22,@techguru,Bitcoin,Trending: Mars is blowing up!,903,377,negative,Texas
+2025-04-07 11:49:24,@techguru,SpaceX,Trending: SpaceX is blowing up!,113,239,negative,India
+2025-04-07 11:49:26,@gptbot,Tech,Trending: Tech is blowing up!,363,289,positive,New York
+2025-04-07 11:49:28,@nasa,SpaceX,Trending: Tech is blowing up!,367,237,neutral,New York
+2025-04-07 11:49:31,@techguru,Bitcoin,Trending: Mars is blowing up!,425,419,negative,India
+2025-04-07 11:49:33,@elonmusk,SpaceX,Trending: SpaceX is blowing up!,988,82,positive,Germany
+2025-04-07 11:49:35,@gptbot,AI,Trending: ChatGPT is blowing up!,917,329,positive,New York
+2025-04-07 11:49:37,@nasa,Bitcoin,Trending: Mars is blowing up!,470,103,neutral,California
+2025-04-07 11:49:39,@nasa,AI,Trending: AI is blowing up!,717,153,negative,Tokyo
+2025-04-07 11:49:41,@gptbot,SpaceX,Trending: Mars is blowing up!,960,214,negative,New York
+2025-04-07 11:49:43,@techguru,Tech,Trending: ChatGPT is blowing up!,581,300,neutral,New York
+2025-04-07 11:49:46,@elonmusk,SpaceX,Trending: Mars is blowing up!,84,281,neutral,Germany
+2025-04-07 11:49:48,@elonmusk,Tech,Trending: AI is blowing up!,698,187,neutral,Tokyo
+2025-04-07 11:49:50,@gptbot,Mars,Trending: Tech is blowing up!,380,466,neutral,Germany
+2025-04-07 11:49:52,@gptbot,SpaceX,Trending: Bitcoin is blowing up!,233,131,negative,California
+2025-04-07 11:49:54,@elonmusk,AI,Trending: Bitcoin is blowing up!,633,120,negative,Germany
+2025-04-07 11:49:56,@nasa,SpaceX,Trending: Mars is blowing up!,349,164,negative,California
+2025-04-07 11:49:58,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,485,24,neutral,New York
+2025-04-07 11:50:01,@techguru,Mars,Trending: Bitcoin is blowing up!,730,216,neutral,New York
+2025-04-07 11:50:03,@gptbot,Tech,Trending: SpaceX is blowing up!,294,385,neutral,Germany
+2025-04-07 11:50:05,@techguru,ChatGPT,Trending: Mars is blowing up!,100,295,negative,Texas
+2025-04-07 11:50:07,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,958,97,positive,New York
+2025-04-07 11:50:09,@elonmusk,Tech,Trending: SpaceX is blowing up!,924,316,positive,New York
+2025-04-07 11:50:11,@elonmusk,SpaceX,Trending: AI is blowing up!,579,87,neutral,India
+2025-04-07 11:50:14,@nasa,Tech,Trending: ChatGPT is blowing up!,844,368,negative,New York
+2025-04-07 11:50:16,@techguru,Mars,Trending: Mars is blowing up!,744,241,negative,California
+2025-04-07 11:50:18,@nasa,Tech,Trending: Tech is blowing up!,33,147,negative,India
+2025-04-07 11:50:20,@elonmusk,AI,Trending: AI is blowing up!,914,237,neutral,Texas
+2025-04-07 11:50:22,@gptbot,Mars,Trending: AI is blowing up!,737,250,positive,Germany
+2025-04-07 11:50:24,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,511,42,positive,California
+2025-04-07 11:50:27,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,686,197,neutral,India
+2025-04-07 11:50:29,@nasa,AI,Trending: Tech is blowing up!,198,114,negative,Germany
+2025-04-07 11:50:31,@elonmusk,Tech,Trending: SpaceX is blowing up!,454,44,negative,Tokyo
+2025-04-07 11:50:33,@nasa,Tech,Trending: AI is blowing up!,139,372,neutral,New York
+2025-04-07 11:50:35,@gptbot,Bitcoin,Trending: AI is blowing up!,940,329,positive,New York
+2025-04-07 11:50:37,@techguru,Tech,Trending: Tech is blowing up!,350,247,positive,Tokyo
+2025-04-07 11:50:39,@techguru,SpaceX,Trending: Tech is blowing up!,911,276,neutral,India
+2025-04-07 11:50:41,@nasa,ChatGPT,Trending: Tech is blowing up!,140,210,negative,California
+2025-04-07 11:50:48,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,339,422,neutral,Tokyo
+2025-04-07 11:50:50,@nasa,AI,Trending: Bitcoin is blowing up!,568,109,positive,India
+2025-04-07 11:50:52,@techguru,ChatGPT,Trending: Bitcoin is blowing up!,246,322,negative,India
+2025-04-07 11:50:54,@nasa,SpaceX,Trending: ChatGPT is blowing up!,185,493,positive,Germany
+2025-04-07 11:50:56,@gptbot,Tech,Trending: AI is blowing up!,332,196,negative,Germany
+2025-04-07 11:50:59,@gptbot,Mars,Trending: AI is blowing up!,526,55,negative,Texas
+2025-04-07 11:51:01,@gptbot,Tech,Trending: SpaceX is blowing up!,712,442,positive,California
+2025-04-07 11:51:03,@elonmusk,Mars,Trending: SpaceX is blowing up!,575,310,negative,Tokyo
+2025-04-07 11:51:05,@nasa,AI,Trending: Tech is blowing up!,388,376,positive,California
+2025-04-07 11:51:07,@elonmusk,ChatGPT,Trending: SpaceX is blowing up!,346,167,neutral,California
+2025-04-07 11:51:09,@techguru,ChatGPT,Trending: Tech is blowing up!,619,113,negative,New York
+2025-04-07 11:51:11,@techguru,Tech,Trending: Tech is blowing up!,963,197,negative,India
+2025-04-07 11:51:14,@nasa,Bitcoin,Trending: AI is blowing up!,964,397,positive,Tokyo
+2025-04-07 11:51:16,@techguru,ChatGPT,Trending: Bitcoin is blowing up!,52,478,neutral,India
+2025-04-07 11:51:18,@gptbot,SpaceX,Trending: Mars is blowing up!,457,349,positive,Tokyo
+2025-04-07 11:51:20,@nasa,ChatGPT,Trending: Mars is blowing up!,713,469,positive,California
+2025-04-07 11:51:22,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,336,12,positive,New York
+2025-04-07 11:51:24,@techguru,Bitcoin,Trending: Bitcoin is blowing up!,128,343,positive,Texas
+2025-04-07 11:51:26,@elonmusk,SpaceX,Trending: Tech is blowing up!,813,294,neutral,California
+2025-04-07 11:51:28,@gptbot,Tech,Trending: ChatGPT is blowing up!,615,52,positive,New York
+2025-04-07 11:51:31,@nasa,Tech,Trending: SpaceX is blowing up!,107,129,positive,Texas
+2025-04-07 11:51:33,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,406,487,negative,Texas
+2025-04-07 11:51:35,@elonmusk,ChatGPT,Trending: SpaceX is blowing up!,18,415,neutral,California
+2025-04-07 11:51:37,@gptbot,Mars,Trending: SpaceX is blowing up!,469,22,neutral,New York
+2025-04-07 11:51:39,@gptbot,Tech,Trending: Bitcoin is blowing up!,323,263,negative,California
+2025-04-07 11:51:41,@nasa,SpaceX,Trending: Bitcoin is blowing up!,411,379,positive,Texas
+2025-04-07 11:51:43,@elonmusk,Mars,Trending: SpaceX is blowing up!,167,32,negative,California
+2025-04-07 11:51:46,@elonmusk,Tech,Trending: Mars is blowing up!,961,443,negative,Texas
+2025-04-07 11:51:48,@gptbot,SpaceX,Trending: Tech is blowing up!,566,142,positive,New York
+2025-04-07 11:51:50,@nasa,Bitcoin,Trending: ChatGPT is blowing up!,890,151,neutral,New York
+2025-04-07 11:51:52,@techguru,Mars,Trending: Mars is blowing up!,229,322,positive,Germany
+2025-04-07 11:51:54,@nasa,AI,Trending: SpaceX is blowing up!,936,499,positive,California
+2025-04-07 11:51:56,@techguru,SpaceX,Trending: ChatGPT is blowing up!,485,357,positive,Tokyo
+2025-04-07 11:51:58,@gptbot,AI,Trending: Mars is blowing up!,505,40,neutral,India
+2025-04-07 11:52:01,@gptbot,Mars,Trending: Tech is blowing up!,811,470,positive,Texas
+2025-04-07 11:52:03,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,667,125,negative,California
+2025-04-07 11:52:05,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,774,190,negative,Texas
+2025-04-07 11:52:07,@nasa,SpaceX,Trending: Bitcoin is blowing up!,200,397,positive,Texas
+2025-04-07 11:52:09,@techguru,Mars,Trending: Tech is blowing up!,621,412,neutral,India
+2025-04-07 11:52:11,@gptbot,SpaceX,Trending: SpaceX is blowing up!,415,319,neutral,India
+2025-04-07 11:52:13,@techguru,Bitcoin,Trending: Mars is blowing up!,810,197,positive,India
+2025-04-07 11:52:15,@gptbot,AI,Trending: ChatGPT is blowing up!,727,354,positive,Germany
+2025-04-07 11:52:18,@elonmusk,AI,Trending: AI is blowing up!,681,133,neutral,California
+2025-04-07 11:52:20,@elonmusk,Mars,Trending: Tech is blowing up!,339,228,positive,New York
+2025-04-07 11:52:22,@gptbot,ChatGPT,Trending: ChatGPT is blowing up!,509,245,positive,Tokyo
+2025-04-07 11:52:24,@nasa,ChatGPT,Trending: AI is blowing up!,528,418,negative,California
+2025-04-07 11:52:26,@elonmusk,Bitcoin,Trending: Bitcoin is blowing up!,829,276,negative,New York
+2025-04-07 11:52:28,@gptbot,ChatGPT,Trending: ChatGPT is blowing up!,946,162,positive,Texas
+2025-04-07 11:52:30,@gptbot,SpaceX,Trending: AI is blowing up!,376,411,neutral,Germany
+2025-04-07 11:52:32,@gptbot,AI,Trending: Tech is blowing up!,419,194,positive,Tokyo
+2025-04-07 11:52:35,@elonmusk,AI,Trending: AI is blowing up!,855,315,neutral,India
+2025-04-07 11:52:37,@elonmusk,SpaceX,Trending: Tech is blowing up!,958,477,negative,Germany
+2025-04-07 11:52:39,@elonmusk,Mars,Trending: SpaceX is blowing up!,824,9,negative,Texas
+2025-04-07 11:52:41,@gptbot,Tech,Trending: Mars is blowing up!,976,135,neutral,Germany
+2025-04-07 11:52:43,@elonmusk,SpaceX,Trending: Mars is blowing up!,321,171,neutral,California
+2025-04-07 11:52:45,@elonmusk,ChatGPT,Trending: AI is blowing up!,516,446,negative,California
+2025-04-07 11:52:47,@elonmusk,SpaceX,Trending: Mars is blowing up!,34,241,neutral,India
+2025-04-07 11:52:56,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,744,167,positive,Germany
+2025-04-07 11:52:58,@techguru,AI,Trending: Tech is blowing up!,924,127,neutral,Tokyo
+2025-04-07 11:53:00,@nasa,AI,Trending: Tech is blowing up!,904,465,negative,Germany
+2025-04-07 11:53:03,@nasa,Mars,Trending: ChatGPT is blowing up!,589,286,negative,California
+2025-04-07 11:53:05,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,733,269,neutral,Texas
+2025-04-07 11:53:07,@techguru,AI,Trending: AI is blowing up!,422,342,positive,New York
+2025-04-07 11:53:09,@nasa,Tech,Trending: Bitcoin is blowing up!,466,398,neutral,Texas
+2025-04-07 11:53:11,@techguru,AI,Trending: Bitcoin is blowing up!,875,119,neutral,New York
+2025-04-07 11:53:13,@gptbot,Bitcoin,Trending: AI is blowing up!,500,120,negative,India
+2025-04-07 11:53:15,@elonmusk,Tech,Trending: Tech is blowing up!,254,142,positive,Texas
+2025-04-07 11:53:18,@techguru,Tech,Trending: Tech is blowing up!,671,121,negative,New York
+2025-04-07 11:53:20,@gptbot,Tech,Trending: SpaceX is blowing up!,617,358,neutral,California
+2025-04-07 11:53:22,@techguru,ChatGPT,Trending: ChatGPT is blowing up!,916,222,neutral,India
+2025-04-07 11:53:24,@techguru,Bitcoin,Trending: SpaceX is blowing up!,550,331,positive,India
+2025-04-07 11:53:26,@techguru,Tech,Trending: Bitcoin is blowing up!,166,138,positive,California
+2025-04-07 11:53:28,@techguru,AI,Trending: ChatGPT is blowing up!,899,389,neutral,Germany
+2025-04-07 11:53:31,@elonmusk,SpaceX,Trending: Tech is blowing up!,164,303,negative,New York
+2025-04-07 11:53:33,@techguru,ChatGPT,Trending: AI is blowing up!,725,219,neutral,New York
+2025-04-07 11:53:35,@nasa,Mars,Trending: SpaceX is blowing up!,348,110,positive,Tokyo
+2025-04-07 11:53:37,@gptbot,AI,Trending: SpaceX is blowing up!,372,65,positive,India
+2025-04-07 11:53:39,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,675,463,negative,California
+2025-04-07 11:53:41,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,730,218,negative,Texas
+2025-04-07 11:53:43,@elonmusk,AI,Trending: Mars is blowing up!,719,190,negative,Texas
+2025-04-07 11:53:46,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,681,220,positive,India
+2025-04-07 11:53:48,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,291,486,neutral,Texas
+2025-04-07 11:53:50,@techguru,Tech,Trending: Tech is blowing up!,97,383,negative,India
+2025-04-07 11:53:52,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,478,97,positive,India
+2025-04-07 11:53:54,@nasa,Tech,Trending: ChatGPT is blowing up!,240,55,positive,India
+2025-04-07 11:53:56,@nasa,ChatGPT,Trending: Tech is blowing up!,576,101,neutral,Texas
+2025-04-07 11:53:58,@gptbot,SpaceX,Trending: SpaceX is blowing up!,343,90,positive,Tokyo
+2025-04-07 11:54:00,@gptbot,Mars,Trending: AI is blowing up!,824,357,neutral,New York
+2025-04-07 11:54:03,@elonmusk,Tech,Trending: SpaceX is blowing up!,647,349,positive,Germany
+2025-04-07 11:54:05,@gptbot,Bitcoin,Trending: AI is blowing up!,262,68,positive,New York
+2025-04-07 11:54:07,@gptbot,Mars,Trending: AI is blowing up!,966,385,neutral,Germany
+2025-04-07 11:54:09,@gptbot,Bitcoin,Trending: Tech is blowing up!,117,456,negative,Texas
+2025-04-07 11:54:11,@nasa,SpaceX,Trending: AI is blowing up!,620,313,positive,New York
+2025-04-07 11:54:13,@elonmusk,Mars,Trending: Tech is blowing up!,406,199,negative,California
+2025-04-07 11:54:16,@elonmusk,SpaceX,Trending: AI is blowing up!,36,463,positive,New York
+2025-04-07 11:54:18,@gptbot,Mars,Trending: AI is blowing up!,281,411,positive,California
+2025-04-07 11:54:20,@nasa,Bitcoin,Trending: AI is blowing up!,364,51,negative,Germany
+2025-04-07 11:54:22,@elonmusk,Mars,Trending: AI is blowing up!,357,377,positive,California
+2025-04-07 11:54:24,@gptbot,Mars,Trending: SpaceX is blowing up!,734,337,negative,India
+2025-04-07 11:54:26,@nasa,Tech,Trending: AI is blowing up!,88,338,negative,India
+2025-04-07 11:54:28,@gptbot,Tech,Trending: ChatGPT is blowing up!,434,401,neutral,Texas
+2025-04-07 11:54:31,@nasa,Mars,Trending: Tech is blowing up!,553,449,negative,California
+2025-04-07 11:54:33,@techguru,AI,Trending: Mars is blowing up!,171,496,neutral,India
+2025-04-07 11:54:35,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,641,437,neutral,Germany
+2025-04-07 11:54:37,@gptbot,AI,Trending: SpaceX is blowing up!,565,54,positive,Texas
+2025-04-07 11:54:39,@elonmusk,Bitcoin,Trending: Tech is blowing up!,668,118,neutral,Germany
+2025-04-07 11:54:41,@nasa,Mars,Trending: AI is blowing up!,42,140,negative,New York
+2025-04-07 11:54:43,@techguru,Mars,Trending: ChatGPT is blowing up!,896,490,negative,Germany
+2025-04-07 11:54:46,@gptbot,ChatGPT,Trending: AI is blowing up!,439,30,positive,India
+2025-04-07 11:54:48,@techguru,Bitcoin,Trending: Bitcoin is blowing up!,469,120,negative,California
+2025-04-07 11:54:50,@techguru,Bitcoin,Trending: Tech is blowing up!,212,74,neutral,Germany
+2025-04-07 11:54:52,@elonmusk,AI,Trending: Tech is blowing up!,171,383,positive,California
+2025-04-07 11:54:54,@elonmusk,SpaceX,Trending: SpaceX is blowing up!,744,171,positive,California
+2025-04-07 11:54:56,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,942,262,negative,California
+2025-04-07 11:54:58,@techguru,Tech,Trending: Bitcoin is blowing up!,958,99,neutral,Germany
+2025-04-07 11:55:01,@elonmusk,Tech,Trending: Tech is blowing up!,43,339,negative,Germany
+2025-04-07 11:55:03,@techguru,AI,Trending: Mars is blowing up!,728,483,negative,Tokyo
+2025-04-07 11:55:05,@nasa,SpaceX,Trending: Mars is blowing up!,435,216,negative,Tokyo
+2025-04-07 11:55:07,@techguru,Tech,Trending: AI is blowing up!,856,412,neutral,Texas
+2025-04-07 11:55:09,@nasa,SpaceX,Trending: Bitcoin is blowing up!,540,208,positive,India
+2025-04-07 11:55:11,@elonmusk,SpaceX,Trending: AI is blowing up!,415,500,negative,Germany
+2025-04-07 11:55:13,@techguru,Tech,Trending: ChatGPT is blowing up!,447,102,neutral,California
+2025-04-07 11:55:16,@elonmusk,ChatGPT,Trending: AI is blowing up!,503,412,positive,New York
+2025-04-07 11:55:18,@gptbot,AI,Trending: Tech is blowing up!,175,176,negative,Tokyo
+2025-04-07 11:55:20,@gptbot,Mars,Trending: ChatGPT is blowing up!,68,185,neutral,New York
+2025-04-07 11:55:22,@techguru,AI,Trending: Bitcoin is blowing up!,755,381,positive,Germany
+2025-04-07 11:55:24,@nasa,AI,Trending: AI is blowing up!,458,24,positive,Germany
+2025-04-07 11:55:26,@elonmusk,Tech,Trending: Bitcoin is blowing up!,94,16,negative,New York
+2025-04-07 11:55:28,@nasa,AI,Trending: SpaceX is blowing up!,346,51,neutral,India
+2025-04-07 11:55:30,@elonmusk,Tech,Trending: Mars is blowing up!,735,415,negative,Texas
+2025-04-07 11:55:32,@elonmusk,Mars,Trending: SpaceX is blowing up!,788,404,neutral,Tokyo
+2025-04-07 11:55:35,@elonmusk,SpaceX,Trending: AI is blowing up!,581,435,negative,California
+2025-04-07 11:55:37,@techguru,Mars,Trending: Bitcoin is blowing up!,584,462,positive,New York
+2025-04-07 11:55:39,@gptbot,Mars,Trending: ChatGPT is blowing up!,973,13,negative,California
+2025-04-07 11:55:41,@techguru,ChatGPT,Trending: SpaceX is blowing up!,384,87,positive,California
+2025-04-07 11:55:43,@nasa,Tech,Trending: Mars is blowing up!,119,483,positive,Tokyo
+2025-04-07 11:55:45,@nasa,Mars,Trending: ChatGPT is blowing up!,991,77,negative,New York
+2025-04-07 11:55:48,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,113,159,neutral,Tokyo
+2025-04-07 14:17:18,@techguru,Bitcoin,Trending: Bitcoin is blowing up!,221,196,negative,Tokyo
+2025-04-07 14:17:20,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,608,477,negative,California
+2025-04-07 14:17:22,@techguru,Bitcoin,Trending: AI is blowing up!,484,482,positive,New York
+2025-04-07 14:17:24,@techguru,AI,Trending: SpaceX is blowing up!,408,48,negative,India
+2025-04-07 14:17:27,@elonmusk,Tech,Trending: Mars is blowing up!,552,345,neutral,New York
+2025-04-07 14:17:29,@techguru,Tech,Trending: SpaceX is blowing up!,361,345,positive,New York
+2025-04-07 14:17:31,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,221,148,positive,Tokyo
+2025-04-07 14:17:33,@elonmusk,Bitcoin,Trending: AI is blowing up!,34,27,positive,Texas
+2025-04-07 14:17:35,@gptbot,Mars,Trending: Mars is blowing up!,320,317,negative,Germany
+2025-04-07 14:17:37,@nasa,ChatGPT,Trending: AI is blowing up!,551,346,neutral,Tokyo
+2025-04-07 14:17:39,@nasa,Bitcoin,Trending: Tech is blowing up!,445,78,positive,Texas
+2025-04-07 14:17:41,@gptbot,Mars,Trending: ChatGPT is blowing up!,210,350,neutral,New York
+2025-04-07 14:17:43,@elonmusk,Tech,Trending: SpaceX is blowing up!,242,20,negative,India
+2025-04-07 14:17:45,@nasa,Tech,Trending: ChatGPT is blowing up!,386,115,negative,Texas
+2025-04-07 14:17:47,@nasa,Mars,Trending: Tech is blowing up!,152,202,positive,Texas
+2025-04-07 14:17:49,@elonmusk,Bitcoin,Trending: AI is blowing up!,983,249,negative,California
+2025-04-07 14:17:51,@nasa,SpaceX,Trending: Mars is blowing up!,920,419,negative,Texas
+2025-04-07 14:17:54,@gptbot,Bitcoin,Trending: ChatGPT is blowing up!,430,235,neutral,India
+2025-04-07 14:17:56,@gptbot,Bitcoin,Trending: AI is blowing up!,298,388,positive,New York
+2025-04-07 14:17:58,@techguru,SpaceX,Trending: ChatGPT is blowing up!,271,75,neutral,New York
+2025-04-07 14:18:00,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,443,25,negative,India
+2025-04-07 14:18:02,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,588,57,neutral,Texas
+2025-04-07 14:18:04,@techguru,AI,Trending: AI is blowing up!,973,445,positive,New York
+2025-04-07 14:18:06,@elonmusk,Bitcoin,Trending: Bitcoin is blowing up!,143,248,neutral,Germany
+2025-04-07 14:18:08,@elonmusk,Bitcoin,Trending: Mars is blowing up!,821,335,neutral,India
+2025-04-07 14:18:10,@nasa,Mars,Trending: Bitcoin is blowing up!,725,311,neutral,India
+2025-04-07 14:18:12,@elonmusk,Tech,Trending: Bitcoin is blowing up!,488,239,neutral,California
+2025-04-07 14:18:14,@techguru,AI,Trending: SpaceX is blowing up!,739,133,neutral,California
+2025-04-07 14:18:16,@elonmusk,Tech,Trending: ChatGPT is blowing up!,869,282,negative,California
+2025-04-07 14:18:19,@techguru,AI,Trending: ChatGPT is blowing up!,810,143,positive,Tokyo
+2025-04-07 14:18:21,@techguru,AI,Trending: Mars is blowing up!,314,368,positive,New York
+2025-04-07 14:18:23,@techguru,Tech,Trending: Mars is blowing up!,789,457,positive,Germany
+2025-04-07 14:18:25,@nasa,Mars,Trending: SpaceX is blowing up!,840,371,negative,Texas
+2025-04-07 14:18:27,@techguru,Bitcoin,Trending: ChatGPT is blowing up!,798,47,negative,California
+2025-04-07 14:18:29,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,122,325,negative,Germany
+2025-04-07 14:18:31,@gptbot,Tech,Trending: Bitcoin is blowing up!,857,366,negative,Germany
+2025-04-07 14:18:33,@elonmusk,Mars,Trending: Bitcoin is blowing up!,656,346,positive,India
+2025-04-07 14:18:35,@elonmusk,ChatGPT,Trending: Mars is blowing up!,101,159,neutral,California
+2025-04-07 14:18:37,@techguru,Mars,Trending: Mars is blowing up!,607,293,neutral,New York
+2025-04-07 14:18:39,@gptbot,ChatGPT,Trending: Tech is blowing up!,315,110,negative,Texas
+2025-04-07 14:18:41,@techguru,Bitcoin,Trending: Bitcoin is blowing up!,406,196,positive,India
+2025-04-07 14:18:43,@techguru,Mars,Trending: AI is blowing up!,910,223,negative,Texas
+2025-04-07 14:18:45,@elonmusk,Bitcoin,Trending: Bitcoin is blowing up!,58,63,neutral,California
+2025-04-07 14:18:47,@nasa,Bitcoin,Trending: Tech is blowing up!,510,151,neutral,New York
+2025-04-07 14:18:49,@nasa,Tech,Trending: Tech is blowing up!,537,201,neutral,Texas
+2025-04-07 14:18:51,@gptbot,Tech,Trending: AI is blowing up!,428,453,positive,New York
+2025-04-07 14:18:53,@elonmusk,Mars,Trending: Bitcoin is blowing up!,598,235,neutral,Tokyo
+2025-04-07 14:18:56,@nasa,SpaceX,Trending: AI is blowing up!,312,338,positive,Tokyo
+2025-04-07 14:18:58,@techguru,Tech,Trending: ChatGPT is blowing up!,305,186,negative,Tokyo
+2025-04-07 14:19:00,@techguru,AI,Trending: Bitcoin is blowing up!,941,331,positive,California
+2025-04-07 14:19:02,@techguru,SpaceX,Trending: ChatGPT is blowing up!,64,192,positive,Texas
+2025-04-07 14:19:04,@nasa,SpaceX,Trending: Tech is blowing up!,863,346,positive,Germany
+2025-04-07 14:19:06,@gptbot,SpaceX,Trending: Bitcoin is blowing up!,129,207,positive,Texas
+2025-04-07 14:19:08,@nasa,SpaceX,Trending: SpaceX is blowing up!,728,254,positive,Tokyo
+2025-04-07 14:19:10,@nasa,AI,Trending: Bitcoin is blowing up!,307,232,neutral,Germany
+2025-04-07 14:19:12,@nasa,ChatGPT,Trending: Mars is blowing up!,893,297,negative,Germany
+2025-04-07 14:19:14,@techguru,Mars,Trending: Mars is blowing up!,513,467,negative,India
+2025-04-07 14:19:16,@techguru,AI,Trending: AI is blowing up!,482,207,neutral,Tokyo
+2025-04-07 14:19:18,@gptbot,Bitcoin,Trending: Mars is blowing up!,774,82,positive,California
+2025-04-07 14:19:20,@techguru,ChatGPT,Trending: AI is blowing up!,940,213,positive,Texas
+2025-04-07 14:19:22,@elonmusk,SpaceX,Trending: Mars is blowing up!,683,424,neutral,New York
+2025-04-07 14:19:24,@techguru,SpaceX,Trending: Mars is blowing up!,680,289,positive,India
+2025-04-07 14:19:26,@nasa,Tech,Trending: AI is blowing up!,656,326,neutral,California
+2025-04-07 14:19:28,@gptbot,ChatGPT,Trending: Bitcoin is blowing up!,924,198,negative,Germany
+2025-04-07 14:19:30,@elonmusk,SpaceX,Trending: SpaceX is blowing up!,93,18,positive,Tokyo
+2025-04-07 14:19:32,@elonmusk,Bitcoin,Trending: AI is blowing up!,540,140,neutral,India
+2025-04-07 14:19:34,@elonmusk,ChatGPT,Trending: Mars is blowing up!,194,149,neutral,Germany
+2025-04-07 14:19:36,@gptbot,AI,Trending: AI is blowing up!,867,366,positive,New York
+2025-04-07 14:19:39,@gptbot,SpaceX,Trending: Tech is blowing up!,769,468,negative,Germany
+2025-04-07 14:19:41,@nasa,Bitcoin,Trending: SpaceX is blowing up!,838,259,negative,India
+2025-04-07 14:19:43,@techguru,Bitcoin,Trending: ChatGPT is blowing up!,819,346,neutral,Texas
+2025-04-07 14:19:45,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,447,270,negative,California
+2025-04-07 14:19:47,@gptbot,SpaceX,Trending: Bitcoin is blowing up!,877,365,neutral,Germany
+2025-04-07 14:19:49,@elonmusk,Mars,Trending: SpaceX is blowing up!,177,284,positive,India
+2025-04-07 14:19:51,@gptbot,SpaceX,Trending: Tech is blowing up!,170,291,positive,California
+2025-04-07 14:19:53,@nasa,Bitcoin,Trending: ChatGPT is blowing up!,83,148,positive,California
+2025-04-07 14:19:56,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,762,64,positive,Tokyo
+2025-04-07 14:19:58,@gptbot,Tech,Trending: ChatGPT is blowing up!,521,221,negative,Texas
+2025-04-07 14:20:00,@techguru,Tech,Trending: Mars is blowing up!,655,315,negative,Texas
+2025-04-07 14:20:02,@nasa,SpaceX,Trending: Tech is blowing up!,676,147,positive,India
+2025-04-07 14:20:04,@nasa,ChatGPT,Trending: Tech is blowing up!,277,9,negative,Texas
+2025-04-07 14:20:06,@gptbot,AI,Trending: SpaceX is blowing up!,969,237,neutral,India
+2025-04-07 14:20:08,@gptbot,Tech,Trending: Tech is blowing up!,473,206,neutral,Germany
+2025-04-07 14:20:12,@nasa,Bitcoin,Trending: ChatGPT is blowing up!,300,85,neutral,Germany
+2025-04-07 14:20:14,@nasa,AI,Trending: ChatGPT is blowing up!,118,323,positive,Tokyo
+2025-04-07 14:20:16,@gptbot,ChatGPT,Trending: Bitcoin is blowing up!,82,357,positive,California
+2025-04-07 14:20:18,@nasa,SpaceX,Trending: SpaceX is blowing up!,121,322,neutral,Texas
+2025-04-07 14:20:20,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,507,40,neutral,Germany
+2025-04-07 14:20:22,@gptbot,Tech,Trending: ChatGPT is blowing up!,815,94,neutral,Texas
+2025-04-07 14:20:24,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,847,173,neutral,New York
+2025-04-07 14:20:26,@techguru,Tech,Trending: ChatGPT is blowing up!,891,384,negative,California
+2025-04-07 14:20:28,@gptbot,SpaceX,Trending: SpaceX is blowing up!,337,21,neutral,India
+2025-04-07 14:20:30,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,793,185,neutral,India
+2025-04-07 14:20:32,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,220,62,negative,Tokyo
+2025-04-07 14:20:34,@elonmusk,AI,Trending: AI is blowing up!,619,317,neutral,Tokyo
+2025-04-07 14:20:36,@nasa,Bitcoin,Trending: Mars is blowing up!,370,38,negative,Tokyo
+2025-04-07 14:20:38,@gptbot,SpaceX,Trending: SpaceX is blowing up!,110,395,negative,New York
+2025-04-07 14:20:40,@gptbot,Mars,Trending: Mars is blowing up!,603,51,neutral,India
+2025-04-07 14:20:42,@gptbot,Bitcoin,Trending: ChatGPT is blowing up!,385,391,neutral,Germany
+2025-04-07 14:20:44,@gptbot,AI,Trending: SpaceX is blowing up!,542,50,negative,Tokyo
+2025-04-07 14:20:46,@elonmusk,Mars,Trending: AI is blowing up!,977,359,positive,Tokyo
+2025-04-07 14:20:49,@techguru,AI,Trending: Mars is blowing up!,967,75,neutral,Texas
+2025-04-07 14:20:51,@techguru,Mars,Trending: AI is blowing up!,29,427,neutral,Tokyo
+2025-04-07 14:20:53,@gptbot,SpaceX,Trending: Mars is blowing up!,251,54,negative,California
+2025-04-07 14:20:55,@techguru,SpaceX,Trending: Bitcoin is blowing up!,607,273,positive,New York
+2025-04-07 14:20:57,@techguru,Mars,Trending: AI is blowing up!,978,367,neutral,Tokyo
+2025-04-07 14:20:59,@nasa,Bitcoin,Trending: Mars is blowing up!,904,317,positive,Texas
+2025-04-07 14:21:01,@techguru,SpaceX,Trending: Tech is blowing up!,791,459,negative,Germany
+2025-04-07 14:21:04,@gptbot,Mars,Trending: SpaceX is blowing up!,484,190,positive,Tokyo
+2025-04-07 14:21:06,@techguru,Tech,Trending: ChatGPT is blowing up!,224,231,neutral,New York
+2025-04-07 14:21:08,@gptbot,Tech,Trending: AI is blowing up!,122,363,neutral,India
+2025-04-07 14:21:10,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,249,111,neutral,Texas
+2025-04-07 14:21:12,@nasa,ChatGPT,Trending: Mars is blowing up!,675,287,positive,Germany
+2025-04-07 14:21:14,@elonmusk,SpaceX,Trending: Mars is blowing up!,187,483,positive,New York
+2025-04-07 14:21:16,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,17,204,positive,India
+2025-04-07 14:21:18,@nasa,Mars,Trending: AI is blowing up!,874,492,positive,New York
+2025-04-07 14:21:20,@nasa,AI,Trending: Tech is blowing up!,376,250,negative,Texas
+2025-04-07 14:21:22,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,344,258,negative,Texas
+2025-04-07 14:21:24,@techguru,SpaceX,Trending: SpaceX is blowing up!,426,162,negative,Texas
+2025-04-07 14:21:26,@gptbot,Tech,Trending: ChatGPT is blowing up!,397,495,positive,India
+2025-04-07 14:21:28,@elonmusk,Mars,Trending: Mars is blowing up!,776,293,positive,Tokyo
+2025-04-07 14:21:31,@nasa,SpaceX,Trending: AI is blowing up!,665,462,negative,New York
+2025-04-07 14:21:33,@nasa,ChatGPT,Trending: Tech is blowing up!,955,61,neutral,India
+2025-04-07 14:21:35,@gptbot,Mars,Trending: SpaceX is blowing up!,460,104,negative,Texas
+2025-04-07 14:21:37,@nasa,Mars,Trending: Mars is blowing up!,871,10,neutral,New York
+2025-04-07 14:21:39,@elonmusk,AI,Trending: Bitcoin is blowing up!,177,404,negative,Texas
+2025-04-07 14:21:41,@techguru,Mars,Trending: Tech is blowing up!,759,470,positive,New York
+2025-04-07 14:21:43,@elonmusk,Tech,Trending: Tech is blowing up!,920,337,neutral,Tokyo
+2025-04-07 14:21:45,@nasa,AI,Trending: Tech is blowing up!,598,240,negative,India
+2025-04-07 14:21:47,@gptbot,AI,Trending: AI is blowing up!,529,373,negative,Germany
+2025-04-07 14:21:49,@techguru,ChatGPT,Trending: AI is blowing up!,592,340,neutral,Texas
+2025-04-07 14:21:51,@elonmusk,Bitcoin,Trending: AI is blowing up!,353,108,negative,Germany
+2025-04-07 14:21:54,@techguru,Tech,Trending: SpaceX is blowing up!,521,411,positive,India
+2025-04-07 14:21:56,@elonmusk,AI,Trending: ChatGPT is blowing up!,273,75,negative,Texas
+2025-04-07 14:21:58,@nasa,Bitcoin,Trending: Tech is blowing up!,73,83,neutral,New York
+2025-04-07 14:22:00,@nasa,AI,Trending: Mars is blowing up!,216,330,neutral,California
+2025-04-07 14:22:02,@techguru,ChatGPT,Trending: SpaceX is blowing up!,208,269,positive,California
+2025-04-07 14:22:04,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,120,490,negative,Tokyo
+2025-04-07 14:22:06,@nasa,ChatGPT,Trending: AI is blowing up!,986,270,neutral,California
+2025-04-07 14:22:08,@nasa,SpaceX,Trending: Mars is blowing up!,508,450,positive,Tokyo
+2025-04-07 14:22:11,@gptbot,SpaceX,Trending: Tech is blowing up!,386,465,neutral,Texas
+2025-04-07 14:22:13,@techguru,ChatGPT,Trending: Bitcoin is blowing up!,769,7,positive,Germany
+2025-04-07 14:22:15,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,100,83,positive,Texas
+2025-04-07 14:22:17,@techguru,Tech,Trending: Bitcoin is blowing up!,90,323,positive,Germany
+2025-04-07 14:22:19,@gptbot,ChatGPT,Trending: Tech is blowing up!,566,260,negative,California
+2025-04-07 14:22:21,@elonmusk,Mars,Trending: Tech is blowing up!,366,174,neutral,Tokyo
+2025-04-07 14:22:23,@elonmusk,Bitcoin,Trending: SpaceX is blowing up!,753,364,neutral,Tokyo
+2025-04-07 14:22:25,@elonmusk,ChatGPT,Trending: Tech is blowing up!,186,167,neutral,Germany
+2025-04-07 14:22:27,@elonmusk,ChatGPT,Trending: Mars is blowing up!,152,262,positive,Tokyo
+2025-04-07 14:22:29,@elonmusk,Mars,Trending: SpaceX is blowing up!,143,280,negative,India
+2025-04-07 14:22:31,@techguru,Mars,Trending: Tech is blowing up!,892,482,neutral,Germany
+2025-04-07 14:22:33,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,130,356,neutral,California
+2025-04-07 14:22:35,@nasa,ChatGPT,Trending: Tech is blowing up!,383,263,neutral,Texas
+2025-04-07 14:22:37,@nasa,Mars,Trending: Tech is blowing up!,360,198,negative,California
+2025-04-07 14:22:39,@nasa,AI,Trending: Bitcoin is blowing up!,205,35,positive,India
+2025-04-07 14:22:41,@nasa,AI,Trending: Tech is blowing up!,264,148,positive,Texas
+2025-04-07 14:22:43,@elonmusk,ChatGPT,Trending: ChatGPT is blowing up!,91,462,negative,Texas
+2025-04-07 14:22:45,@nasa,ChatGPT,Trending: ChatGPT is blowing up!,684,18,positive,California
+2025-04-07 14:22:48,@nasa,AI,Trending: SpaceX is blowing up!,984,453,neutral,New York
+2025-04-07 14:22:50,@nasa,SpaceX,Trending: Mars is blowing up!,675,327,positive,India
+2025-04-07 14:22:52,@nasa,Mars,Trending: Bitcoin is blowing up!,538,472,negative,Tokyo
+2025-04-07 14:22:54,@elonmusk,Bitcoin,Trending: AI is blowing up!,286,82,positive,Texas
+2025-04-07 14:22:56,@elonmusk,AI,Trending: Mars is blowing up!,868,215,negative,California
+2025-04-07 14:22:58,@techguru,AI,Trending: AI is blowing up!,280,327,negative,Germany
+2025-04-07 14:23:00,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,97,97,neutral,India
+2025-04-07 14:23:02,@nasa,Tech,Trending: ChatGPT is blowing up!,365,282,positive,Texas
+2025-04-07 14:23:05,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,980,42,positive,California
+2025-04-07 14:23:07,@elonmusk,ChatGPT,Trending: Mars is blowing up!,452,175,negative,New York
+2025-04-07 14:23:09,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,738,35,neutral,Texas
+2025-04-07 14:23:11,@techguru,SpaceX,Trending: SpaceX is blowing up!,501,182,positive,California
+2025-04-07 14:23:13,@gptbot,Tech,Trending: ChatGPT is blowing up!,515,429,neutral,Germany
+2025-04-07 14:23:15,@gptbot,ChatGPT,Trending: Mars is blowing up!,285,210,neutral,Tokyo
+2025-04-07 14:23:17,@elonmusk,ChatGPT,Trending: SpaceX is blowing up!,631,173,negative,Germany
+2025-04-07 14:23:19,@nasa,Mars,Trending: SpaceX is blowing up!,344,25,positive,Germany
+2025-04-07 14:23:21,@gptbot,Bitcoin,Trending: Tech is blowing up!,820,342,negative,New York
+2025-04-07 14:23:24,@nasa,Bitcoin,Trending: AI is blowing up!,588,433,negative,California
+2025-04-07 14:23:26,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,345,360,negative,Tokyo
+2025-04-07 14:23:28,@techguru,Tech,Trending: Bitcoin is blowing up!,354,373,positive,India
+2025-04-07 14:23:30,@nasa,Mars,Trending: AI is blowing up!,675,202,positive,Tokyo
+2025-04-07 14:23:32,@nasa,Bitcoin,Trending: Tech is blowing up!,657,18,neutral,Tokyo
+2025-04-07 14:23:34,@techguru,SpaceX,Trending: Tech is blowing up!,44,45,negative,Germany
+2025-04-07 14:23:36,@gptbot,SpaceX,Trending: AI is blowing up!,558,435,positive,California
+2025-04-07 14:23:38,@techguru,Tech,Trending: ChatGPT is blowing up!,187,240,neutral,California
+2025-04-07 14:23:40,@elonmusk,Mars,Trending: ChatGPT is blowing up!,626,154,positive,New York
+2025-04-07 14:23:42,@elonmusk,Tech,Trending: AI is blowing up!,107,311,neutral,California
+2025-04-07 14:23:44,@techguru,ChatGPT,Trending: Tech is blowing up!,617,278,neutral,Texas
+2025-04-07 14:23:46,@nasa,Tech,Trending: SpaceX is blowing up!,496,166,positive,Germany
+2025-04-07 14:23:48,@techguru,AI,Trending: ChatGPT is blowing up!,257,34,positive,India
+2025-04-07 14:23:50,@techguru,Mars,Trending: Mars is blowing up!,998,127,negative,Texas
+2025-04-07 14:23:53,@elonmusk,AI,Trending: AI is blowing up!,103,5,positive,California
+2025-04-07 14:23:55,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,167,377,negative,Germany
+2025-04-07 14:23:57,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,901,374,positive,New York
+2025-04-07 14:23:59,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,383,303,negative,Tokyo
+2025-04-07 14:24:01,@elonmusk,Bitcoin,Trending: Tech is blowing up!,905,9,neutral,Tokyo
+2025-04-07 14:24:03,@elonmusk,ChatGPT,Trending: Mars is blowing up!,239,80,positive,California
+2025-04-07 14:24:05,@techguru,Bitcoin,Trending: AI is blowing up!,938,384,neutral,Germany
+2025-04-07 14:24:07,@gptbot,AI,Trending: Mars is blowing up!,408,480,negative,Germany
+2025-04-07 14:24:09,@gptbot,ChatGPT,Trending: AI is blowing up!,529,136,neutral,Tokyo
+2025-04-07 14:24:11,@techguru,SpaceX,Trending: ChatGPT is blowing up!,916,454,negative,Germany
+2025-04-07 14:24:13,@nasa,AI,Trending: Tech is blowing up!,517,13,neutral,California
+2025-04-07 14:24:15,@gptbot,Mars,Trending: AI is blowing up!,317,68,negative,Texas
+2025-04-07 14:24:17,@elonmusk,ChatGPT,Trending: Tech is blowing up!,285,316,neutral,California
+2025-04-07 14:24:19,@techguru,Tech,Trending: SpaceX is blowing up!,493,487,positive,California
+2025-04-07 14:24:21,@gptbot,Tech,Trending: AI is blowing up!,758,33,neutral,India
+2025-04-07 14:24:23,@nasa,Tech,Trending: Mars is blowing up!,872,73,negative,California
+2025-04-07 14:24:25,@gptbot,Mars,Trending: Bitcoin is blowing up!,661,476,positive,Texas
+2025-04-07 14:24:28,@elonmusk,ChatGPT,Trending: ChatGPT is blowing up!,86,359,positive,Tokyo
+2025-04-07 14:24:30,@techguru,SpaceX,Trending: Mars is blowing up!,552,254,neutral,India
+2025-04-07 14:24:33,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,552,8,negative,Tokyo
+2025-04-07 14:24:35,@techguru,ChatGPT,Trending: SpaceX is blowing up!,67,471,negative,Tokyo
+2025-04-07 14:24:37,@elonmusk,AI,Trending: Tech is blowing up!,84,77,positive,New York
+2025-04-07 14:24:39,@nasa,SpaceX,Trending: AI is blowing up!,45,225,negative,Texas
+2025-04-07 14:24:41,@nasa,Mars,Trending: AI is blowing up!,526,421,negative,Tokyo
+2025-04-07 14:24:43,@techguru,ChatGPT,Trending: Bitcoin is blowing up!,561,226,neutral,India
+2025-04-07 14:24:45,@nasa,ChatGPT,Trending: Tech is blowing up!,562,260,neutral,Texas
+2025-04-07 14:24:47,@elonmusk,SpaceX,Trending: AI is blowing up!,516,496,negative,Texas
+2025-04-07 14:24:50,@gptbot,Bitcoin,Trending: SpaceX is blowing up!,378,114,positive,India
+2025-04-07 14:24:53,@gptbot,Tech,Trending: Bitcoin is blowing up!,520,459,neutral,Germany
+2025-04-07 14:24:55,@gptbot,Tech,Trending: Tech is blowing up!,862,333,positive,Texas
+2025-04-07 14:24:57,@gptbot,SpaceX,Trending: Mars is blowing up!,102,379,negative,California
+2025-04-07 14:24:59,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,192,93,neutral,India
+2025-04-07 14:25:01,@techguru,Bitcoin,Trending: Mars is blowing up!,527,184,positive,New York
+2025-04-07 14:25:03,@nasa,SpaceX,Trending: Tech is blowing up!,845,309,negative,Germany
+2025-04-07 14:25:05,@elonmusk,Tech,Trending: Tech is blowing up!,727,271,negative,New York
+2025-04-07 14:25:08,@gptbot,SpaceX,Trending: AI is blowing up!,305,145,positive,Tokyo
+2025-04-07 14:25:10,@techguru,ChatGPT,Trending: ChatGPT is blowing up!,293,332,negative,Germany
+2025-04-07 14:25:12,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,720,355,negative,Tokyo
+2025-04-07 14:25:14,@techguru,AI,Trending: SpaceX is blowing up!,714,411,neutral,Germany
+2025-04-07 14:25:16,@nasa,ChatGPT,Trending: AI is blowing up!,655,180,negative,Germany
+2025-04-07 14:25:18,@gptbot,Tech,Trending: AI is blowing up!,250,217,positive,Tokyo
+2025-04-07 14:25:20,@techguru,SpaceX,Trending: Tech is blowing up!,959,490,neutral,Texas
+2025-04-07 14:25:23,@nasa,Mars,Trending: ChatGPT is blowing up!,171,138,neutral,India
+2025-04-07 14:25:25,@nasa,Tech,Trending: AI is blowing up!,680,173,positive,India
+2025-04-07 14:25:27,@techguru,Bitcoin,Trending: Tech is blowing up!,232,57,negative,Germany
+2025-04-07 14:25:29,@elonmusk,Tech,Trending: ChatGPT is blowing up!,144,38,positive,Germany
+2025-04-07 14:25:31,@techguru,Mars,Trending: Bitcoin is blowing up!,583,98,negative,California
+2025-04-07 14:25:33,@elonmusk,Mars,Trending: AI is blowing up!,474,368,positive,Tokyo
+2025-04-07 14:25:35,@gptbot,Bitcoin,Trending: Tech is blowing up!,122,288,negative,California
+2025-04-07 14:25:37,@techguru,AI,Trending: Bitcoin is blowing up!,23,307,positive,India
+2025-04-07 14:25:39,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,631,152,neutral,Germany
+2025-04-07 14:25:41,@gptbot,Tech,Trending: Bitcoin is blowing up!,125,433,negative,California
+2025-04-07 14:25:43,@gptbot,AI,Trending: Bitcoin is blowing up!,395,354,neutral,California
+2025-04-07 14:25:46,@nasa,Bitcoin,Trending: SpaceX is blowing up!,632,474,negative,Texas
+2025-04-07 14:25:48,@techguru,Mars,Trending: AI is blowing up!,30,59,positive,Tokyo
+2025-04-07 14:25:50,@nasa,SpaceX,Trending: ChatGPT is blowing up!,313,378,neutral,New York
+2025-04-07 14:25:52,@nasa,Mars,Trending: Tech is blowing up!,701,21,neutral,California
+2025-04-07 14:25:54,@nasa,SpaceX,Trending: Bitcoin is blowing up!,755,285,negative,India
+2025-04-07 14:25:56,@nasa,AI,Trending: Bitcoin is blowing up!,301,237,neutral,India
+2025-04-07 14:25:58,@gptbot,ChatGPT,Trending: Mars is blowing up!,375,225,negative,New York
+2025-04-07 14:26:00,@nasa,Bitcoin,Trending: AI is blowing up!,73,279,negative,Texas
+2025-04-07 14:26:02,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,479,28,negative,Tokyo
+2025-04-07 14:26:04,@elonmusk,Bitcoin,Trending: Bitcoin is blowing up!,532,126,neutral,India
+2025-04-07 14:26:06,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,233,197,neutral,Texas
+2025-04-07 14:26:08,@nasa,ChatGPT,Trending: Mars is blowing up!,724,153,positive,India
+2025-04-07 14:26:10,@elonmusk,Bitcoin,Trending: ChatGPT is blowing up!,253,315,neutral,New York
+2025-04-07 14:26:12,@elonmusk,AI,Trending: ChatGPT is blowing up!,218,159,neutral,Tokyo
+2025-04-07 14:26:14,@gptbot,Tech,Trending: Mars is blowing up!,579,168,positive,Tokyo
+2025-04-07 14:26:16,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,11,158,neutral,Germany
+2025-04-07 14:26:19,@techguru,Mars,Trending: Bitcoin is blowing up!,123,413,positive,Tokyo
+2025-04-07 14:26:21,@nasa,Mars,Trending: Bitcoin is blowing up!,513,484,negative,Germany
+2025-04-07 14:26:23,@elonmusk,SpaceX,Trending: Mars is blowing up!,576,153,positive,New York
+2025-04-07 14:26:25,@gptbot,ChatGPT,Trending: ChatGPT is blowing up!,299,205,negative,Germany
+2025-04-07 14:26:28,@techguru,ChatGPT,Trending: AI is blowing up!,967,480,negative,India
+2025-04-07 14:26:30,@gptbot,AI,Trending: ChatGPT is blowing up!,735,278,positive,New York
+2025-04-07 14:26:32,@elonmusk,Bitcoin,Trending: AI is blowing up!,717,22,negative,California
+2025-04-07 14:26:34,@nasa,SpaceX,Trending: Bitcoin is blowing up!,333,442,neutral,New York
+2025-04-07 14:26:36,@nasa,SpaceX,Trending: Bitcoin is blowing up!,286,15,neutral,Germany
+2025-04-07 14:26:39,@elonmusk,SpaceX,Trending: Mars is blowing up!,536,184,negative,Tokyo
+2025-04-07 14:26:41,@techguru,SpaceX,Trending: Mars is blowing up!,963,312,positive,Germany
+2025-04-07 14:26:43,@nasa,AI,Trending: Tech is blowing up!,55,280,neutral,Texas
+2025-04-07 14:26:45,@gptbot,Tech,Trending: AI is blowing up!,353,230,positive,Germany
+2025-04-07 14:26:47,@gptbot,ChatGPT,Trending: SpaceX is blowing up!,800,233,neutral,Tokyo
+2025-04-07 14:26:49,@nasa,ChatGPT,Trending: Bitcoin is blowing up!,559,436,positive,Tokyo
+2025-04-07 14:26:51,@gptbot,SpaceX,Trending: AI is blowing up!,731,428,positive,New York
+2025-04-07 14:26:54,@elonmusk,Tech,Trending: SpaceX is blowing up!,893,51,positive,India
+2025-04-07 14:26:56,@gptbot,Bitcoin,Trending: AI is blowing up!,322,358,neutral,New York
+2025-04-07 14:26:58,@techguru,AI,Trending: Mars is blowing up!,370,418,positive,New York
+2025-04-07 14:27:00,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,249,159,positive,Tokyo
+2025-04-07 14:27:02,@nasa,SpaceX,Trending: ChatGPT is blowing up!,784,279,positive,India
+2025-04-07 14:27:04,@elonmusk,ChatGPT,Trending: Tech is blowing up!,742,251,neutral,Tokyo
+2025-04-07 14:27:06,@gptbot,AI,Trending: Mars is blowing up!,786,159,positive,India
+2025-04-07 14:27:08,@nasa,Bitcoin,Trending: Bitcoin is blowing up!,885,320,negative,California
+2025-04-07 14:27:10,@gptbot,Tech,Trending: Mars is blowing up!,246,377,neutral,California
+2025-04-07 14:27:12,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,447,116,negative,Texas
+2025-04-07 14:27:14,@gptbot,AI,Trending: Bitcoin is blowing up!,858,462,negative,Tokyo
+2025-04-07 14:27:16,@techguru,Bitcoin,Trending: SpaceX is blowing up!,612,328,neutral,California
+2025-04-07 14:27:18,@nasa,Bitcoin,Trending: Mars is blowing up!,178,207,negative,India
+2025-04-07 14:27:20,@techguru,SpaceX,Trending: SpaceX is blowing up!,852,23,positive,New York
+2025-04-07 14:27:23,@elonmusk,AI,Trending: ChatGPT is blowing up!,765,444,positive,New York
+2025-04-07 14:27:25,@elonmusk,SpaceX,Trending: ChatGPT is blowing up!,291,174,negative,Germany
+2025-04-07 14:27:27,@elonmusk,AI,Trending: Mars is blowing up!,842,429,positive,New York
+2025-04-07 14:27:29,@nasa,SpaceX,Trending: SpaceX is blowing up!,938,438,negative,India
+2025-04-07 14:27:32,@gptbot,Mars,Trending: Bitcoin is blowing up!,533,280,positive,California
+2025-04-07 14:27:34,@gptbot,Tech,Trending: Tech is blowing up!,646,272,neutral,California
+2025-04-07 14:27:36,@gptbot,Bitcoin,Trending: AI is blowing up!,401,80,negative,Tokyo
+2025-04-07 14:27:38,@techguru,Mars,Trending: AI is blowing up!,222,393,neutral,Texas
+2025-04-07 14:27:40,@gptbot,Bitcoin,Trending: Tech is blowing up!,651,91,positive,Tokyo
+2025-04-07 14:27:44,@techguru,Tech,Trending: Bitcoin is blowing up!,166,72,neutral,Tokyo
+2025-04-07 14:27:47,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,830,297,negative,Germany
+2025-04-07 14:27:50,@elonmusk,Tech,Trending: Tech is blowing up!,270,180,negative,Tokyo
+2025-04-07 15:58:09,@techguru,AI,Trending: Mars is blowing up!,208,305,negative,California
+2025-04-07 15:58:12,@elonmusk,Tech,Trending: Bitcoin is blowing up!,424,367,negative,California
+2025-04-07 15:58:14,@gptbot,Bitcoin,Trending: ChatGPT is blowing up!,784,25,neutral,California
+2025-04-07 15:58:16,@gptbot,Tech,Trending: Mars is blowing up!,998,205,positive,Tokyo
+2025-04-07 15:58:18,@elonmusk,Tech,Trending: Bitcoin is blowing up!,454,152,positive,Tokyo
+2025-04-07 15:58:20,@elonmusk,Tech,Trending: Mars is blowing up!,699,350,neutral,Tokyo
+2025-04-07 15:58:22,@elonmusk,SpaceX,Trending: Mars is blowing up!,100,28,positive,Texas
+2025-04-07 15:58:24,@gptbot,Bitcoin,Trending: AI is blowing up!,233,7,neutral,Texas
+2025-04-07 15:58:26,@nasa,ChatGPT,Trending: Mars is blowing up!,329,53,negative,India
+2025-04-07 15:58:28,@nasa,AI,Trending: Mars is blowing up!,45,284,positive,India
+2025-04-07 15:58:31,@gptbot,Mars,Trending: Mars is blowing up!,374,488,positive,India
+2025-04-07 15:58:33,@gptbot,Bitcoin,Trending: AI is blowing up!,78,69,positive,Texas
+2025-04-07 15:58:35,@gptbot,ChatGPT,Trending: Bitcoin is blowing up!,730,231,positive,California
+2025-04-07 15:58:37,@techguru,AI,Trending: SpaceX is blowing up!,134,322,negative,Germany
+2025-04-07 15:58:39,@elonmusk,SpaceX,Trending: Mars is blowing up!,948,248,negative,Germany
+2025-04-07 15:58:41,@elonmusk,AI,Trending: SpaceX is blowing up!,366,84,negative,India
+2025-04-07 15:58:43,@nasa,AI,Trending: AI is blowing up!,778,322,positive,Texas
+2025-04-07 15:58:45,@elonmusk,AI,Trending: AI is blowing up!,435,378,negative,New York
+2025-04-07 15:58:47,@techguru,Tech,Trending: Mars is blowing up!,454,56,negative,New York
+2025-04-07 15:58:50,@elonmusk,SpaceX,Trending: Tech is blowing up!,197,366,negative,Tokyo
+2025-04-07 15:58:52,@gptbot,Mars,Trending: AI is blowing up!,72,80,negative,Texas
+2025-04-07 15:58:54,@gptbot,ChatGPT,Trending: ChatGPT is blowing up!,608,10,negative,New York
+2025-04-07 15:58:56,@techguru,SpaceX,Trending: Bitcoin is blowing up!,153,13,negative,Tokyo
+2025-04-07 15:58:58,@nasa,Tech,Trending: SpaceX is blowing up!,91,251,negative,Texas
+2025-04-07 15:59:00,@gptbot,SpaceX,Trending: Bitcoin is blowing up!,379,28,neutral,Germany
+2025-04-07 15:59:03,@elonmusk,Mars,Trending: Mars is blowing up!,618,248,negative,California
+2025-04-07 15:59:05,@gptbot,AI,Trending: ChatGPT is blowing up!,1000,425,positive,Tokyo
+2025-04-07 15:59:07,@elonmusk,Bitcoin,Trending: AI is blowing up!,101,428,neutral,Texas
+2025-04-07 15:59:09,@nasa,Bitcoin,Trending: Tech is blowing up!,979,379,positive,Tokyo
+2025-04-07 15:59:11,@elonmusk,AI,Trending: Tech is blowing up!,625,199,neutral,California
+2025-04-07 15:59:13,@gptbot,SpaceX,Trending: AI is blowing up!,794,245,negative,Tokyo
+2025-04-07 15:59:15,@elonmusk,Mars,Trending: Mars is blowing up!,406,359,positive,California
+2025-04-07 15:59:17,@elonmusk,Mars,Trending: Mars is blowing up!,598,452,positive,India
+2025-04-07 15:59:20,@elonmusk,AI,Trending: SpaceX is blowing up!,11,91,neutral,Tokyo
+2025-04-07 15:59:22,@techguru,AI,Trending: ChatGPT is blowing up!,310,276,neutral,New York
+2025-04-07 15:59:24,@gptbot,ChatGPT,Trending: ChatGPT is blowing up!,16,437,neutral,Tokyo
+2025-04-07 15:59:26,@techguru,Tech,Trending: ChatGPT is blowing up!,860,124,negative,India
+2025-04-07 15:59:28,@elonmusk,ChatGPT,Trending: SpaceX is blowing up!,288,412,negative,India
+2025-04-07 15:59:30,@nasa,SpaceX,Trending: Tech is blowing up!,75,186,negative,Tokyo
+2025-04-07 15:59:32,@techguru,Mars,Trending: Mars is blowing up!,646,149,neutral,India
+2025-04-07 15:59:35,@techguru,AI,Trending: ChatGPT is blowing up!,329,488,neutral,New York
+2025-04-07 15:59:37,@techguru,AI,Trending: AI is blowing up!,896,204,negative,New York
+2025-04-07 15:59:39,@elonmusk,Mars,Trending: Mars is blowing up!,565,352,negative,Germany
+2025-04-07 15:59:41,@elonmusk,Mars,Trending: ChatGPT is blowing up!,741,400,negative,Texas
+2025-04-07 15:59:43,@gptbot,SpaceX,Trending: Tech is blowing up!,974,191,negative,Texas
+2025-04-07 15:59:45,@techguru,AI,Trending: Bitcoin is blowing up!,338,254,neutral,Tokyo
+2025-04-07 15:59:47,@nasa,Tech,Trending: SpaceX is blowing up!,655,377,neutral,India
+2025-04-07 15:59:50,@elonmusk,AI,Trending: ChatGPT is blowing up!,649,359,neutral,India
+2025-04-07 15:59:52,@techguru,Tech,Trending: Mars is blowing up!,917,374,negative,Texas
+2025-04-07 15:59:54,@techguru,SpaceX,Trending: SpaceX is blowing up!,491,178,positive,Tokyo
+2025-04-07 15:59:56,@elonmusk,Tech,Trending: Mars is blowing up!,116,26,positive,Texas
+2025-04-07 15:59:58,@techguru,AI,Trending: AI is blowing up!,565,400,neutral,India
+2025-04-07 16:00:00,@nasa,Mars,Trending: AI is blowing up!,275,287,neutral,Texas
+2025-04-07 16:00:02,@gptbot,AI,Trending: Tech is blowing up!,201,46,negative,Tokyo
+2025-04-07 16:00:05,@techguru,ChatGPT,Trending: Mars is blowing up!,763,463,neutral,India
+2025-04-07 16:00:07,@gptbot,AI,Trending: SpaceX is blowing up!,807,462,neutral,New York
+2025-04-07 16:00:09,@techguru,AI,Trending: Mars is blowing up!,187,62,neutral,Germany
+2025-04-07 16:00:11,@elonmusk,Bitcoin,Trending: Tech is blowing up!,83,320,positive,Texas
+2025-04-07 16:00:13,@nasa,Tech,Trending: Bitcoin is blowing up!,256,375,negative,Texas
+2025-04-07 16:00:15,@gptbot,Bitcoin,Trending: Bitcoin is blowing up!,229,226,neutral,California
+2025-04-07 16:00:18,@nasa,ChatGPT,Trending: SpaceX is blowing up!,827,234,negative,India
+2025-04-07 16:00:20,@nasa,Bitcoin,Trending: Tech is blowing up!,739,278,positive,India
+2025-04-07 16:00:22,@techguru,Mars,Trending: AI is blowing up!,31,404,neutral,Tokyo
+2025-04-07 16:00:24,@elonmusk,SpaceX,Trending: SpaceX is blowing up!,816,13,neutral,India
+2025-04-07 16:00:27,@nasa,AI,Trending: ChatGPT is blowing up!,559,210,negative,Germany
+2025-04-07 16:00:29,@nasa,Mars,Trending: SpaceX is blowing up!,673,379,neutral,New York
+2025-04-07 16:00:31,@elonmusk,AI,Trending: Mars is blowing up!,806,388,negative,India
+2025-04-07 16:00:33,@elonmusk,Tech,Trending: ChatGPT is blowing up!,63,190,positive,Tokyo
+2025-04-07 16:00:35,@gptbot,Tech,Trending: AI is blowing up!,964,49,negative,India
+2025-04-07 16:00:37,@gptbot,ChatGPT,Trending: Bitcoin is blowing up!,86,130,neutral,Texas
+2025-04-07 16:00:40,@techguru,SpaceX,Trending: ChatGPT is blowing up!,616,122,positive,India
+2025-04-07 16:00:42,@gptbot,SpaceX,Trending: Tech is blowing up!,10,333,negative,Germany
+2025-04-07 16:00:44,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,70,88,negative,Texas
+2025-04-07 16:00:46,@gptbot,Mars,Trending: ChatGPT is blowing up!,854,344,neutral,Germany
+2025-04-07 16:00:48,@gptbot,AI,Trending: Tech is blowing up!,915,371,positive,Tokyo
+2025-04-07 16:00:50,@gptbot,Tech,Trending: Tech is blowing up!,121,85,positive,New York
+2025-04-07 16:00:52,@nasa,Mars,Trending: SpaceX is blowing up!,406,244,neutral,Texas
+2025-04-07 16:00:54,@nasa,Tech,Trending: Bitcoin is blowing up!,64,127,positive,Texas
+2025-04-07 16:00:56,@elonmusk,ChatGPT,Trending: Bitcoin is blowing up!,760,343,neutral,California
+2025-04-07 16:00:59,@nasa,SpaceX,Trending: SpaceX is blowing up!,949,441,negative,California
+2025-04-07 16:01:01,@nasa,Mars,Trending: Mars is blowing up!,262,272,neutral,India
+2025-04-07 16:01:03,@nasa,ChatGPT,Trending: SpaceX is blowing up!,75,469,negative,Texas
+2025-04-07 16:01:05,@elonmusk,Bitcoin,Trending: Mars is blowing up!,677,165,positive,Texas
+2025-04-07 16:01:07,@nasa,SpaceX,Trending: SpaceX is blowing up!,984,390,negative,Tokyo
+2025-04-07 16:01:09,@techguru,Tech,Trending: Bitcoin is blowing up!,71,268,neutral,New York
+2025-04-07 16:01:12,@gptbot,SpaceX,Trending: ChatGPT is blowing up!,256,130,negative,Germany
+2025-04-07 16:01:14,@nasa,AI,Trending: Bitcoin is blowing up!,386,109,positive,India
+2025-04-07 16:01:16,@gptbot,Bitcoin,Trending: ChatGPT is blowing up!,445,191,positive,Tokyo
+2025-04-07 16:01:18,@gptbot,Bitcoin,Trending: ChatGPT is blowing up!,680,368,positive,Germany
+2025-04-07 16:01:20,@nasa,Tech,Trending: AI is blowing up!,448,483,neutral,Germany
+2025-04-07 16:01:22,@nasa,Mars,Trending: Tech is blowing up!,223,167,negative,New York
+2025-04-07 16:01:25,@elonmusk,Mars,Trending: SpaceX is blowing up!,615,419,neutral,Tokyo
+2025-04-07 16:01:27,@gptbot,Bitcoin,Trending: AI is blowing up!,702,357,neutral,India
+2025-04-07 16:01:29,@techguru,Tech,Trending: ChatGPT is blowing up!,329,100,negative,New York
+2025-04-07 16:01:31,@techguru,Tech,Trending: AI is blowing up!,438,137,negative,New York
+2025-04-07 16:01:35,@gptbot,Mars,Trending: SpaceX is blowing up!,520,140,neutral,India
+2025-04-07 16:01:37,@techguru,SpaceX,Trending: AI is blowing up!,819,280,negative,Germany
+2025-04-07 16:01:39,@elonmusk,AI,Trending: Bitcoin is blowing up!,545,426,negative,Texas
+2025-04-07 16:01:41,@nasa,ChatGPT,Trending: Tech is blowing up!,768,255,positive,Texas
